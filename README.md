@@ -1,1 +1,1 @@
-# ETG-JSON-Based-Inventory-Managaemnt
+# ETG-Machine Learning Internship using Python
